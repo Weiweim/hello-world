@@ -1,3 +1,4 @@
 # hello-world
-my first repository
-Hi, My name is Carol!
+my first repository！
+Hi, guys！
+Python，here it is！
